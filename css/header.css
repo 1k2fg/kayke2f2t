@@ -14,4 +14,12 @@
      background-position: center;
      background-repeat: no-repeat ;
  }
+ .menu-lista{
+     display: none;
+
+ }
  
+ .seletor-menu:checked ~ .menu-lista{
+     display: block;
+
+ }
