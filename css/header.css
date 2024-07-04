@@ -14,6 +14,7 @@
      background-position: center;
      background-repeat: no-repeat ;
  }
+
  .menu-lista{
      display: none;
      position: absolute;
@@ -25,10 +26,21 @@
      display: block;
 
  }
+
  .menu-lista-item, .menu-lista-titulo{
      background-color: white;
      padding: 1em;
  }
+
 .menu-lista-titulo{
     color: var(--laranja);
+}
+
+.menu-lista-link{
+    background: var(--azul-degrade);
+    --webkit-background-clip:text;
+    --webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-transform: uppercase;
+
 }
