@@ -9,6 +9,7 @@
 }
 
 body{
-    background-color: #ebecce;
+    background-color: var(--cor-de-fundo)
+    font-family: "Popins" , sans-serif;
 }
 

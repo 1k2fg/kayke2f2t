@@ -34,6 +34,11 @@
 
 .menu-lista-titulo{
     color: var(--laranja);
+    font-weight: 700;
+    
+
+.seletor-menu{
+    display: none;
 }
 
 .menu-lista-link{
