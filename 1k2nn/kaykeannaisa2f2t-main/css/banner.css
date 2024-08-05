@@ -23,6 +23,8 @@
      padding: 1em;
      width: 100%;
      background: url("../imagem/Pesquisa.svg") no-repeat;
+     background-position: 1em;
+     text-align: center;
 }
 
 .banner-pesquisa::placeholder{
@@ -32,4 +34,3 @@
         text-align: center;
         color: var(--branco);
 }
-
