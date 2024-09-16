@@ -17,6 +17,15 @@
     justify-content: center;
 }
 
-.topicos-item a{
-    color: var(--branco);
+.topicos-item {
+    margin: 2em 0.5em;
+}
+
+.topicos-link{
+    color: var(--branco); 
+    background-color: var(--laranja);
+    text-decoration: none;
+    padding: 1em;
+    font-size: 14px;
+    font-weight: 700;
 }
